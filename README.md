@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31597264/README.md)
 # Tailwind Project
 
 My first front-end design project — a landing page for a job/talent marketplace platform, built with **HTML** and **Tailwind CSS**.
