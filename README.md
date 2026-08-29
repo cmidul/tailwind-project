@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31597264/README.md)
 # Tailwind Project
 
 My first front-end design project — a landing page for a job/talent marketplace platform, built with **HTML** and **Tailwind CSS**.
@@ -55,7 +56,8 @@ No build step is required since Tailwind is loaded via CDN.
 
 - Text content is placeholder (Lorem ipsum) — this project is focused on layout and styling practice, not final copy.
 - Deployed automatically via GitHub Pages / GitHub Actions.
+- **Not responsive** — the layout uses fixed pixel widths and is designed for desktop screens only. It has not yet been adapted for tablet or mobile viewports.
 
 ## Status
 
-This was a learning exercise to get comfortable with Tailwind's utility-first workflow (flexbox/grid layouts, gradients, rounded shapes, responsive spacing). Future improvements could include making the layout responsive for smaller screens and replacing placeholder text/images with real content.
+This was a learning exercise to get comfortable with Tailwind's utility-first workflow (flexbox/grid layouts, gradients, rounded shapes, spacing). Planned next step: rebuild the layout using responsive utilities (`sm:`, `md:`, `lg:` breakpoints) and relative sizing instead of fixed widths, and replace placeholder text/images with real content.
